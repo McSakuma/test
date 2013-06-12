@@ -1,3 +1,0 @@
-TEST TEST
-テストテスト
-test test
